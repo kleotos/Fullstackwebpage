@@ -24,12 +24,13 @@ font-style: oblique;
   font-size: 1.1rem;
   box-shadow: var(--shadow);
 }
-.main-nav a: :hover{
+.main-nav a :hover {
   background: var(--dark);
   color: var (--light)
 }
 #container{
   background-color: white;
+  width: 1000px;
 }
 header{
   background-color: #eeeeee;
