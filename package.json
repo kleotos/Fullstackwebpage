@@ -1,0 +1,23 @@
+{
+  "name": "fullstackwebpage",
+  "version": "1.0.0",
+  "description": "A tutorial project by Bra'ene",
+  "main": "java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleotos/Fullstackwebpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kleotos/Fullstackwebpage/issues"
+  },
+  "homepage": "https://github.com/kleotos/Fullstackwebpage#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
