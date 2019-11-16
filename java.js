@@ -5,7 +5,7 @@
         button.onclick=changeGreeting;
 
     function changeGreeting(){
-      var greeting=document.getElementsBytagName("hello,world!");
+      var greeting=document.getElementsBytag Name("hello,world!");
 
       var input=document.getElementById("Name"),value
         greeting.innerHTML="Hello,"+ input;
